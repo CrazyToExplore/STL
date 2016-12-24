@@ -6,8 +6,8 @@ class LearnMap{
 public :
 
 private:
-    void create_map();
-    void print_map();
+    void create_dict(void);
+    void print_map(void);
 };
 
 int main(){
