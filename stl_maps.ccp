@@ -4,7 +4,8 @@
 
 class LearnMap{
 public :
-
+    LearnMap();
+    ~LearnMap();
 private:
     void create_dict(void);
     void print_map(void);
