@@ -8,7 +8,6 @@
 #include <vector>
 #include <algorithm>
 
-#error "something went wrong"
 using namespace std;
 
 /**
