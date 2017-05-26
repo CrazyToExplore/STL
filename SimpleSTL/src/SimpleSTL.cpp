@@ -1,13 +1,13 @@
 //============================================================================
 // Name        : SimpleSTL.cpp
 // Author      : Shrikant
-// Version     : 1.0
+// Version     : 1.1
 //============================================================================
 
 #include <iostream>
 #include <vector>
 #include <algorithm>
-
+#include "time.h"
 using namespace std;
 
 /**
